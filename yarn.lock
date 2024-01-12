@@ -1106,6 +1106,11 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
+"@mdi/font@^7.4.47":
+  version "7.4.47"
+  resolved "https://registry.yarnpkg.com/@mdi/font/-/font-7.4.47.tgz#2ae522867da3a5c88b738d54b403eb91471903af"
+  integrity sha512-43MtGpd585SNzHZPcYowu/84Vz2a2g31TvPMTm9uTiCSWzaheQySUcSyUH/46fPnuPQWof2yd0pGBtzee/IQWw==
+
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz#dbf733a965ca47b1973177dc0bb6c889edcfb129"
@@ -5951,6 +5956,11 @@ vue@^3.2.13:
     "@vue/runtime-dom" "3.4.10"
     "@vue/server-renderer" "3.4.10"
     "@vue/shared" "3.4.10"
+
+vuetify@^3.4.10:
+  version "3.4.10"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.4.10.tgz#436ff039857cacc5239a8a86d7c391f871d16110"
+  integrity sha512-tObGoumCJxuK26OpS/CLZZIJAgDtN2cnd31vJscVhpuf6jeMD7wh8IsgfZownAOXU1FcKWVQwn1RSDsoXk5cJA==
 
 vuex@^4.0.0:
   version "4.1.0"
