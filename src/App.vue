@@ -2,6 +2,12 @@
   <v-app>
     <side-bar></side-bar>
     <top-bar></top-bar>
+
+    <v-main>
+      <v-container class="py-3 px-6">
+          <router-view/>
+      </v-container>
+    </v-main>
   </v-app>
 </template>
 

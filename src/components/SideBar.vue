@@ -28,8 +28,8 @@
       data(){
           return{
               links:[
-                  {icon:'mdi-microsoft-windows',text:'Loại sách',to:"/list-cat"},
-                  {icon:'mdi-microsoft-windows',text:'Sách',to:"/"},
+                  {icon:'mdi-microsoft-windows',text:'Products',to:"/list-products"},
+                  {icon:'mdi-microsoft-windows',text:'Category',to:"/list-category"},
                   
               ]
           }
